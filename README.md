@@ -1,6 +1,6 @@
 ## Greetings! 🧙‍♂️
 
-📫 Want to chat? I'm active on [Mastodon](https://hachyderm.io/@WizardCM).
+📫 Want to chat? I'm active on [Bluesky](https://bsky.app/profile/wizardcm.com) and [Mastodon](https://hachyderm.io/@WizardCM).
 
 🌱 By day I write JavaScript (React, primarily) for an IoT smart meter company in Melbourne 🇦🇺.
 
